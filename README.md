@@ -1,2 +1,2 @@
 # HelloWorld-Repo
-Why must it be this way?
+Why are we still here? Just to print("Hello world!") ?
